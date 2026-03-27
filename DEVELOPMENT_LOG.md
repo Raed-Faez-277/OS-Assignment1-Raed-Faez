@@ -60,18 +60,20 @@ Used Youtube to help me understand
 1 hour
 ---
 
-### Entry 3 - [Date and Time]
+### Entry 3 - [March 25, 2026, 3:40 PM]
 **What I did**: 
-
+Context Switch Counter.
 **Details**: 
 
+Added static counter variable. Increment the counter each time a new process starts running
+Display total context switches at the end of simulation
 **Challenges**: 
-
+to understands the feature
 **Solution**: 
-
+find a proper video to help me coding
 **Time spent**: 
+40 minutes
 
----
 
 ### Entry 4 - [Date and Time]
 **What I did**: 
