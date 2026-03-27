@@ -60,15 +60,15 @@ In the example above we see that P3 didn't finish his whole burst time, because 
 
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: P1 is in the new state when it is first created but has not added to the ready queue.
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: P1 becomes runnable when it is added to the ready queue and ready to be executed by a thread.
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: P1 is Running when its thread starts and it is executing for its time quantum on the CPU.
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: P1 enters the waiting state after its time quantum finishes and it still has remaining burst time, so its going back ro ready queue and waits for its next turn
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**:P1 will be terminated after it finishes his burst time completely
 
 ---
 
