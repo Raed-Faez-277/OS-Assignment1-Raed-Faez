@@ -30,16 +30,25 @@ We used thread because it's lightweight data and shares the same memory and it m
 **Question**: In Round-Robin scheduling, what happens when a process doesn't finish within its time quantum? Explain using an example from your program output.
 
 **Your Answer:**
+When a process doesn't finish within the time quantum it will go back again to ready queue by FIFO concept.
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
 
 Example from my output:
 ```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
+? P3 executing quantum [3000ms] 
+  ? Quantum progress: [███████████████] 100%
+  ? P3 completed quantum 3000ms │ Overall progress: [████████████░░░░░░░░] 63%
+     Remaining time: 1735ms
+  ? P3 yields CPU for context switch
+
+  ? P3 (Priority: 3) enters the ready queue │ Burst time: 4735ms
+┌─ Ready Queue ─────────────────────────────────────────────────────────────────
+│ [P5 ? P6 ? P7 ? P8 ? P9 ? P10 ? P11 ? P12 ? P13 ? P14 ? P15 ? P2 ? P3]
+└───────────────────────────────────────────────────────────────────────────────
 ```
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
+In the example above we see that P3 didn't finish his whole burst time, because the quantum time is 3000ms and P3 burst time is 4735ms. It only stays for 3000ms then it should leave and go back to the ready queue. It will going to come back after other processes in line finish.
 
 ---
 
