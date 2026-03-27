@@ -78,21 +78,26 @@ In the example above we see that P3 didn't finish his whole burst time, because 
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: Web Server
 
 **Description**: 
-[Describe the real-world scenario or application]
+The web server can handles multiple clients requests.
+Every request is a thread and every thread will take a specific time in the CPU
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+The round robin will work here because every thread will share CPU time fairly. 
+Also, It will decrease collisions between different pages.
 
-### Example 2: [Name of application/scenario]
+### Example 2: Online Games
 
 **Description**: 
-[Describe the real-world scenario or application]
+In online games multiple players can join in the same game.
+where everything the players do will be treated as threat such as : main menu, buttons, and closing the game.
 
-**Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+**Why Round-Robin works well here**:
+
+In this case every threat will be treated equally in the CPU time. 
+So it will increase the responsiveness, and players can play the game smoothly.
 
 ---
 
