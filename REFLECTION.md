@@ -9,7 +9,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+I learned how multithread works in practice, not just in theory. I understood how to create threads and how each thread represents a process that can run independently. Also, that threads don’t really run at the exact same time, but the CPU switches between them very fast, which creates the idea of concurrency.
 
 ---
 
