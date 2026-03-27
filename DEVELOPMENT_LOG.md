@@ -92,18 +92,30 @@ Answering questions in REFLECTION.md
 **Time spent**: 
 1 hour
 
-### Entry 5 - [Date and Time]
+### Entry 5 - [March 26, 2026, 8:00 PM]
 **What I did**: 
-
+Answering questions in ANSWERS.md
 **Details**: 
+-Understands the difference between process and thread in memory, resources, and which one is easier 
 
+- understand what round robin is.. and what happens when a process doesn't finish their burst time.
+  Showing an example from my code’s output and explaining it.
+
+- understanding the states of threads 
+
+- give two life examples where round robin and thread can be useful.
+  
 **Challenges**: 
+- brainstorming of whats the difference between process and thread.
+  Knowledge that they're not the same and should not mix them up.
+
+-What every state means in threads
 
 **Solution**: 
-
+Used  online resources to help me answer these questions.
 **Time spent**: 
+1.5 hour
 
----
 
 ### Entry 6 - [Optional - Date and Time]
 **What I did**: 
