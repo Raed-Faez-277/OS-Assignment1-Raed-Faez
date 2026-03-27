@@ -46,17 +46,18 @@ Downloaded extenions.
 35 minutes.
 
 
-### Entry 2 - [Date and Time]
+### Entry 2 - [March 25, 2026, 2:35PM]
 **What I did**: 
-
+Added Feature 1
 **Details**: 
-
+Added priority to processes. Display priority when process enters the ready queue
 **Challenges**: 
-
+Understanding the concept and how to implement it.
 **Solution**: 
+Used Youtube to help me understand
 
 **Time spent**: 
-
+1 hour
 ---
 
 ### Entry 3 - [Date and Time]
