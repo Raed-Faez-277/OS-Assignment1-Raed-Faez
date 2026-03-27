@@ -32,18 +32,19 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
+### Entry 1 - [March 20, 2026, 4:00PM ]
 **What I did**: 
-
+Downloaded some Virtual studio extensions. 
+Such as: GitLens, java Extension Pack, and Markedown All in one. Also, did a small test to check my code.
 **Details**: 
-
+Used Youtube to help me find them and how to do commit.
 **Challenges**: 
-
+To find a proper video to help me.
 **Solution**: 
-
+Downloaded extenions.
 **Time spent**: 
+35 minutes.
 
----
 
 ### Entry 2 - [Date and Time]
 **What I did**: 
