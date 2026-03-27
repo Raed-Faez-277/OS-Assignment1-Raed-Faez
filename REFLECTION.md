@@ -44,9 +44,7 @@ I would like to learn about how deadlocks work and how parallelism works in CPU
 
 ### How confident do you feel about multithreading concepts now?
 
-[Rate yourself and explain: Beginner / Intermediate / Confident]
-
-[Explain your rating - what do you understand well? What needs more practice?]
+I felt like I’m a beginner not in concepts but in practice. I felt what I learned in lecture and in slides weren't enough about coding.
 
 ---
 
