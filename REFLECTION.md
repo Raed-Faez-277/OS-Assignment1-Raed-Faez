@@ -40,9 +40,7 @@ Multithreading is used in we browsing and video games. In web browsers every tab
 
 ### What would you like to learn more about?
 
-[Any topics related to threading, concurrency, or operating systems that you're curious about?]
-
----
+I would like to learn about how deadlocks work and how parallelism works in CPU
 
 ### How confident do you feel about multithreading concepts now?
 
