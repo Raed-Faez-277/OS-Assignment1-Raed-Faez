@@ -11,9 +11,19 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[Write your answer here. Consider: What is a process? What is a thread? How do they differ in terms of memory, resources, creation overhead? Why are threads more suitable for this simulation?]
+A process is peogram in execution that has peogram code, current activity, and allocated resources.
 
----
+
+A thread is light weight process that has a thread ID, program counter, and register set.
+
+Thread simply is a small process that comes from a process. A process can have multiple threads.
+
+The difference in terms of memory is that process has it's own memory and contains some keys such as : text section, stack (holds temporary data), and data section. Process provide isolation and protection 
+
+Threads share the same memory within a process. Thread shares resource data.
+
+We used thread because it's lightweight data and shares the same memory and it makes the connection between them easier and faster. Threads have lower creation and context switch times.
+
 
 ## Question 2: Ready Queue Behavior
 
