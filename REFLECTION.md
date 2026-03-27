@@ -32,7 +32,7 @@ I kept debugging the code step by step and see the output, and try over to match
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+Multithreading is used in we browsing and video games. In web browsers every tab is a thread to make sure the app won't freeze. In video games the user input buttons and graphics are threaded to make the game run smoothly.
 
 ---
 
