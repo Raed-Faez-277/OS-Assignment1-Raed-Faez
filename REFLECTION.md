@@ -25,9 +25,8 @@ The most challenging part of this assignment was the code and the third feature 
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+I kept debugging the code step by step and see the output, and try over to match what the question wants. Also, I used onilne videos to help me understand the methods and features. I reviewed the slides.
 
----
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
