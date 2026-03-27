@@ -17,7 +17,7 @@ I learned how multithread works in practice, not just in theory. I understood ho
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+The most challenging part of this assignment was the code and the third feature 3. I understand the idea, but implementing the code was hard. The values of waiting time were very big. I thought I made a mistake and kept trying over to find a solution.
 
 ---
 
