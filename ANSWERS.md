@@ -104,10 +104,10 @@ So it will increase the responsiveness, and players can play the game smoothly.
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1. How threads work concurrently and share CPU time equally.
+2. How round-robin works
+3. how to track waiting rime and context switch.
 
 **Concepts I need to study more:**
-1. 
-2. 
+1. More practice in coding and learn more advanced thread methods.
+2.  How to calculate waiting time for each process accurately.
