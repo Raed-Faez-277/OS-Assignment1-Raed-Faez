@@ -75,18 +75,22 @@ find a proper video to help me coding
 40 minutes
 
 
-### Entry 4 - [Date and Time]
+### Entry 4 - [March 26, 2026, 6:00 PM]
 **What I did**: 
-
+Answering questions in REFLECTION.md
 **Details**: 
-
+- brainstorming 
+- what did I learn about multithreading in this assignment 
+- the challenges I have faced throughout the assignment 
+- how did I overcome these challenges.
 **Challenges**: 
-
+-  traced the execution of each thread 
+- run the thread execution and ensuring round robin scheduling works as expected.
 **Solution**: 
-
+- Tested repeatedly until the output matched the expected results
+- used youtube videos and slides to fully understand the concept of threads and processes.
 **Time spent**: 
-
----
+1 hour
 
 ### Entry 5 - [Date and Time]
 **What I did**: 
