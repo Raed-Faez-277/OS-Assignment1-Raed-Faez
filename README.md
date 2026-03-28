@@ -452,7 +452,7 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 Student Name: Raed Faez Al-Dawsari
 Student ID: 445050283
 GitHub Username: Raed-Faez-277
-Repository Link: https://github.com/[your-username]/OS-Assignment1-[YourName]
+Repository Link: https://github.com/Raed-Faez-277/OS-Assignment1-Raed-Faez.git
 Video Link: https://drive.google.com/file/d/15JcgLgc0GyEH08pudYsq_IhF3OdvymFg/view?usp=drive_link
 Date Submitted: March 28, 2026
 ```
